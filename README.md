@@ -32,3 +32,35 @@ This is a Streamlit web application that analyzes the national expansion potenti
 To run the app locally:
 ```bash
 streamlit run Detalii.py
+```
+
+## 🖼️ Application Preview
+
+### 📊 Dashboard – Business Indicators
+![Dashboard](images/dashboard.png)
+
+### 🧑‍⚕️ Project Intro – About Farmacia Tei
+![Intro](images/intro_farmacia_tei.png)
+
+### 📍 Map – County Expansion Potential
+![Map](images/expansion_map.png)
+
+### 📈 Regression Estimator – Expansion Score
+![Regression](images/regression.png)
+
+### 🔬 Clustering Counties by Features
+![Clustering](images/clustering.png)
+![Clusters Bar Chart](images/clusters_bar_chart.png)
+
+### 📊 Distribution of Counties by Expansion Score
+![Distribution](images/distribution_score.png)
+
+### 🧮 Averages by Expansion Potential
+![Population & Salary](images/medii_salariu_pop.png)
+
+### 📋 Descriptive Stats for Expansion Metrics
+![Stats](images/descriptive_stats.png)
+
+### 🔄 County Comparison Module
+![Comparison](images/county_comparison.png)
+
