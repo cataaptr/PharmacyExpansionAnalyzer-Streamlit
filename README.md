@@ -1,4 +1,4 @@
-# 🧪 Farmacia Tei - Data Analysis App (Streamlit)
+# 🧪 PharmacyExpansionAnalyzer-Streamlit
 
 This is a Streamlit web application that analyzes the national expansion potential of Farmacia Tei, a major Romanian pharmacy chain. The project combines business data with geographic and demographic indicators to identify optimal counties for expansion.
 
