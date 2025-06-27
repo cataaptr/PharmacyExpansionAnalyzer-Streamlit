@@ -40,27 +40,27 @@ streamlit run Detalii.py
 ![Dashboard](images/dashboard.png)
 
 ### 🧑‍⚕️ Project Intro – About Farmacia Tei
-![Intro](images/intro_farmacia_tei.png)
+![Intro](images/detalii.png)
 
 ### 📍 Map – County Expansion Potential
-![Map](images/expansion_map.png)
+![Map](images/harta.png)
 
 ### 📈 Regression Estimator – Expansion Score
-![Regression](images/regression.png)
+![Regression](images/regresie.png)
 
 ### 🔬 Clustering Counties by Features
-![Clustering](images/clustering.png)
-![Clusters Bar Chart](images/clusters_bar_chart.png)
+![Clustering](images/cluster.png)
+![Clusters Bar Chart](images/distributie_judete.png)
 
 ### 📊 Distribution of Counties by Expansion Score
-![Distribution](images/distribution_score.png)
+![Distribution](images/distributie_scor.png)
 
 ### 🧮 Averages by Expansion Potential
-![Population & Salary](images/medii_salariu_pop.png)
+![Population & Salary](images/medie.png)
 
 ### 📋 Descriptive Stats for Expansion Metrics
-![Stats](images/descriptive_stats.png)
+![Stats](images/statitistici_descriptive.png)
 
 ### 🔄 County Comparison Module
-![Comparison](images/county_comparison.png)
+![Comparison](images/comparare_judete.png)
 
