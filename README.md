@@ -50,10 +50,10 @@ streamlit run Detalii.py
 
 ### 🔬 Clustering Counties by Features
 ![Clustering](images/cluster.png)
-![Clusters Bar Chart](images/distributie_judete.png)
+![Clusters Bar Chart](images/ditributie_judete.png)
 
 ### 📊 Distribution of Counties by Expansion Score
-![Distribution](images/distributie_scor.png)
+![Distribution](images/distrubutie_scor.png)
 
 ### 🧮 Averages by Expansion Potential
 ![Population & Salary](images/medie.png)
