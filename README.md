@@ -36,16 +36,16 @@ streamlit run Detalii.py
 
 ## 🖼️ Application Preview
 
-### 📊 Dashboard – Business Indicators
+### 📊 Dashboard 
 ![Dashboard](images/dashboard.png)
 
-### 🧑‍⚕️ Project Intro – About Farmacia Tei
+### 🧑‍⚕️ About Farmacia Tei
 ![Intro](images/detalii.png)
 
-### 📍 Map – County Expansion Potential
+### 📍 Map 
 ![Map](images/harta.png)
 
-### 📈 Regression Estimator – Expansion Score
+### 📈 Regression Estimator 
 ![Regression](images/regresie.png)
 
 ### 🔬 Clustering Counties by Features
