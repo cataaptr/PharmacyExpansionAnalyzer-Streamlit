@@ -4,12 +4,12 @@ This is a Streamlit web application that analyzes the national expansion potenti
 
 ## 🚀 Functionalities
 
-- **📊 Dashboard:** Displays key indicators (turnover, profit, employees) with charts showing their evolution (2014–2023).
-- **🧭 Expansion Analysis:** Ranks Romanian counties based on population, income, and pharmacy density. Displays interactive maps and top/bottom 3 counties.
-- **📈 Regression Module:** Uses multiple linear regression to estimate the expansion score for hypothetical counties based on real indicators.
-- **⚡ Clustering:** Applies KMeans to group counties with similar characteristics (population, income, pharmacy density).
-- **🔍 County Comparison:** Allows side-by-side comparison between any two counties based on selected metrics.
-- **🧬 Project Overview Page:** Brief presentation of the company, founders, and current locations.
+- ** Dashboard:** Displays key indicators (turnover, profit, employees) with charts showing their evolution (2014–2023).
+- ** Expansion Analysis:** Ranks Romanian counties based on population, income, and pharmacy density. Displays interactive maps and top/bottom 3 counties.
+- ** Regression Module:** Uses multiple linear regression to estimate the expansion score for hypothetical counties based on real indicators.
+- ** Clustering:** Applies KMeans to group counties with similar characteristics (population, income, pharmacy density).
+- ** County Comparison:** Allows side-by-side comparison between any two counties based on selected metrics.
+- ** Project Overview Page:** Brief presentation of the company, founders, and current locations.
 
 ## 🛠 Technologies Used
 
@@ -31,5 +31,4 @@ This is a Streamlit web application that analyzes the national expansion potenti
 
 To run the app locally:
 ```bash
-pip install -r requirements.txt
 streamlit run Detalii.py
